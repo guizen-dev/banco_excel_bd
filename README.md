@@ -1,3 +1,5 @@
+![banner](https://github.com/guizen-dev/banco_excel_bd/assets/94479811/14b09c1f-09c4-4c0d-a654-1086b5f8e7ae)
+
 # Banco de dados reestruturado no Excel
 Projeto feito no curso de *Programação de Banco de Bados* no senai. O objetivo era reestruturar a tabela default de mode que seguisse até a 3ª normalização de banco de dados (3FN), para que o projeto ficasse mais compeensivel e replicável.
 
